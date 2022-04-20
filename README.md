@@ -41,7 +41,7 @@ Soft wrap
 4
 ​
 5
-![euRamonmaia GitHub stats](https://github.com/euRamonmaia/Javascript/tree/main/exercircius)
+![euRamonmaia GitHub stats](https://github.com/euRamonmaia/euRamonmaia.git)
 6
 ​
 7
