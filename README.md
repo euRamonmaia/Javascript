@@ -1,2 +1,2 @@
 # Javascript
-Estudante  do Curso tecmico em informatica
+Estudante  do Curso tecnico em informatica
